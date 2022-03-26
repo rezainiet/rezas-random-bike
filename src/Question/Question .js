@@ -1,10 +1,10 @@
 import React from 'react';
 import { Accordion } from 'react-bootstrap';
 
-const Theory = () => {
+const Question = () => {
     return (
         <div className='container mt-5 mb-5'>
-            <h1 className='text-center fw-bold mb-3'>Theory Part</h1>
+            <h1 className='text-center fw-bold mb-3'>Question and Answers!</h1>
             <Accordion defaultActiveKey="0">
                 <Accordion.Item eventKey="0">
                     <Accordion.Header className='fw-bold'>How React Works</Accordion.Header>
@@ -29,4 +29,4 @@ const Theory = () => {
     );
 };
 
-export default Theory;
+export default Question;

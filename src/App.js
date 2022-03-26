@@ -2,13 +2,13 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Component/Header/Header';
 import Shop from './Component/Header/Shop/Shop';
-import Theory from './Theory/Theory';
+import Question from './Question/Question ';
 function App() {
   return (
     <div>
       <Header></Header>
       <Shop></Shop>
-      <Theory></Theory>
+      <Question></Question>
     </div>
   );
 }

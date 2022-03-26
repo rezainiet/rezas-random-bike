@@ -4,7 +4,7 @@
   border-radius: 8px;
   padding: 5px 0px;
   position: relative;
-  background-color: rgba(255, 228, 196, 0.335);
+  background-color: rgba(255, 179, 87, 0.335);
 }
 .product-info img {
   width: 310px;
@@ -22,5 +22,5 @@
   border-radius: 5px;
   border: none;
   font-weight: bold;
-  background-color: rgba(255, 68, 0, 0.472);
+  background-color: rgba(255, 23, 120, 0.863);
 }

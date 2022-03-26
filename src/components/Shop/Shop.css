@@ -1,0 +1,16 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3.5fr 1.5fr;
+}
+.cart-container{
+    background-color: orange;
+    height: 500px;
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.products-container img{
+    width: 270px;
+    /* height: 250px; */
+}

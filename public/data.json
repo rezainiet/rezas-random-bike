@@ -1,7 +1,7 @@
 [
   {
     "id": "623e9e6647fc816bf7b40750",
-    "price": "$1,395",
+    "balance": "$1,395",
     "picture": "https://images.91wheels.com//assets/b_images/gallery/suzuki/hayabusa/suzuki-hayabusa-0-1618196925.png?width=384&q=60",
     "shipping": 37,
     "name": "Suzuki Hayabusa",
@@ -9,7 +9,7 @@
   },
   {
     "id": "623e9e6660f7de7dac015e73",
-    "price": "$3,731",
+    "balance": "$3,731",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629689925.png?width=384&q=60",
     "shipping": 20,
     "name": "Suzuki Gixxer 250",
@@ -17,7 +17,7 @@
   },
   {
     "id": "623e9e663a80929ee427086f",
-    "price": "$1,804.91",
+    "balance": "$1,804.91",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629642986.png?width=384&q=60",
     "shipping": 30,
     "name": "Suzuki Gixxer SF 250",
@@ -25,7 +25,7 @@
   },
   {
     "id": "623e9e663ec90647a5b416d9",
-    "price": "$1,128.04",
+    "balance": "$1,128.04",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1627460068.JPG?width=384&q=60",
     "shipping": 23,
     "name": "Suzuki Gixxer SF",
@@ -33,7 +33,7 @@
   },
   {
     "id": "623e9e66fba9e2f5fc24b982",
-    "price": "$2,474.08",
+    "balance": "$2,474.08",
     "picture": "https://images.91wheels.com//assets/b_images/gallery/suzuki/gixxer-150/suzuki-gixxer-150-9-1611566729.JPG?width=384&q=60",
     "shipping": 21,
     "name": "Suzuki Gixxer 150",
@@ -41,7 +41,7 @@
   },
   {
     "id": "623e9e66fac826bdcfe8012a",
-    "price": "$1,240.57",
+    "balance": "$1,240.57",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629642978.png?width=384&q=60",
     "shipping": 31,
     "name": "Suzuki Intruder 150",
@@ -49,7 +49,7 @@
   },
   {
     "id": "623e9e669813912b39cee330",
-    "price": "$1,965.93",
+    "balance": "$1,965.93",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629642983.png?width=384&q=60",
     "shipping": 30,
     "name": "Suzuki Access 125",
@@ -57,7 +57,7 @@
   },
   {
     "id": "623e9e668ecf1c057b9b7381",
-    "price": "$1,931.86",
+    "balance": "$1,931.86",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1637388505.jpg?width=384&q=60",
     "shipping": 38,
     "name": "Suzuki Avenis",
@@ -65,7 +65,7 @@
   },
   {
     "id": "623e9e66605b87812a578c72",
-    "price": "$1,152.94",
+    "balance": "$1,152.94",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629689915.png?width=384&q=60",
     "shipping": 24,
     "name": "Suzuki Burgman Street",
@@ -73,7 +73,7 @@
   },
   {
     "id": "623e9e6620397ff1b6b059dc",
-    "price": "$2,860.06",
+    "balance": "$2,860.06",
     "picture": "https://images.91wheels.com//assets/b_images/gallery/suzuki/hayabusa/suzuki-hayabusa-0-1618196925.png?width=384&q=60",
     "shipping": 39,
     "name": "Suzuki Hayabusa",
@@ -81,7 +81,7 @@
   },
   {
     "id": "623e9e66245113c8908d9a4c",
-    "price": "$1,474.05",
+    "balance": "$1,474.05",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629689925.png?width=384&q=60",
     "shipping": 30,
     "name": "Suzuki Gixxer 250",
@@ -89,7 +89,7 @@
   },
   {
     "id": "623e9e6638ee8cd7a8e2ebef",
-    "price": "$3,070.77",
+    "balance": "$3,070.77",
     "picture": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1629642986.png?width=384&q=60",
     "shipping": 21,
     "name": "Suzuki Gixxer SF 250",
